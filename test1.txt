@@ -1,3 +1,7 @@
 Pari is cute
 Pari is cute
 
+class B{
+
+
+}
